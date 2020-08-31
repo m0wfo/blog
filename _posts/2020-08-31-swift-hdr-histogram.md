@@ -1,5 +1,7 @@
 ---
+id: 897
 title: HDR Histogram for Swift
+date: 2020-08-31T00:11:00+00:00
 author: chris
 layout: post
 ---
