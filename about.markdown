@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-[<img class="alignnone size-full wp-image-867" src="https://d2ub5d3l6xuomp.cloudfront.net/wp-content/uploads/2015/10/IMG_1462.jpg" alt="IMG_1462" width="648" height="365" />](https://d2ub5d3l6xuomp.cloudfront.net/wp-content/uploads/2015/10/IMG_1462.jpg)
-
 ## tl;dr
 
-I&#8217;m a software guy, and I look for hard [CS] problems to add value. I&#8217;ve spent the last decade solving these problems for a bunch of companies ranging from the biggest (by revenue) to the minuscule and everything in between; check out my <a href="https://www.linkedin.com/in/chrismowforth/" target="_blank">LinkedIn page</a> if you&#8217;re curious.
+I&#8217;m a software guy, and I look for hard [CS] problems to add value. I&#8217;ve spent the last decade solving these problems for a bunch of companies ranging from the biggest (by revenue) to the minuscule and everything in between. If you need my services, see _getting in touch_ 👇
 
 I&#8217;m mostly based in Dublin, Ireland. I like cycling (Road and MTB), restoring old cars and doing road trips with newer cars when I get the time.
 
