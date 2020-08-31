@@ -1,6 +1,6 @@
 ---
 id: 843
-title: 'Rails thread safety&#8230; ain&#8217;t a thing'
+title: "Rails thread safety ain't a thing"
 date: 2019-01-14T19:37:22+00:00
 author: chris
 layout: post
