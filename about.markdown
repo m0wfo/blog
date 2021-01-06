@@ -6,13 +6,7 @@ permalink: /about/
 
 ## In a nutshell
 
-I&#8217;m a software guy, 
-
-I&#8217;m 
-
-## Services
-
-TODO
+I&#8217;m a software guy by training, although I don't really maintain this blog right now- to the extent that I do, it's more just a space for me to remember various technical trivia I found interesting or useful.
 
 ## Getting in touch
 
